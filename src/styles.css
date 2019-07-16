@@ -1,1 +1,116 @@
 /* You can add global styles to this file, and also import other style files */
+h3 {
+	color:rgb(87,78,79);
+}
+
+.hr-length {
+	width:150px;
+}
+
+.jumbo-bg {
+	background-image: url('assets/photos/muddy_hand.jpg');
+	background-size:cover;
+	height:600px;
+	padding-top:160px;
+}
+
+.jumbo-mechanics-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimgmechanics.jpg');
+	background-size:cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-cut-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimg2.jpg');
+	background-size:cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-winter-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimgwinter.jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-latex-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimglatex.jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-nitrile-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimgnitrile.jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-pu-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimgpu.jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.jumbo-statics-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/SafeChoiceGloves/gloveimgstatics.jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+	color:white;
+	text-align: center;
+}
+
+.signin-btn {
+	background-color:rgba(255,255,255,0.5);
+}
+
+.menu-btn {
+	background-color:rgb(207,239,0);
+}
+
+.buy-btn {
+	background-color:blue;
+	color:white;
+}
+
+#features {
+	background-color:rgb(237,242,245);
+	padding-top:10px;
+	color:rgb(69,111,148);
+}
+
+#materials {
+	background-color:rgb(237,242,245);
+	padding-top:10px;
+	color:rgb(69,111,148);
+}
+
+.featureDetails-bg {
+	padding:20px;
+}
+
+.title-padding {
+	padding:20px;
+}
+
+.product-padding {
+	margin:10px;
+	padding:30px;
+}
