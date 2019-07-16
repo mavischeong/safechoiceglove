@@ -1,0 +1,23 @@
+.panel-footer {
+	height:100px;
+	font-size: smaller;
+}
+.footer-bg {
+	background-color: rgb(66,67,62);
+	color:white;
+}
+
+.footer-copyright-bg {
+	background-color: rgb(40,41,35);
+	color:white;
+}
+
+.hr-style {
+	border-color: rgb(193,250,0);
+	width:60px;
+	border-style: solid;
+}
+
+a {
+	color:white;
+}
